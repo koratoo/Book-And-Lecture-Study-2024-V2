@@ -1,2 +1,5 @@
-# Book-And-Lecture-Study-2024-2
-Node.js, React, Javascript, CSS, PHP, Python 등을 공부
+## 책 정리
+
+### [CS관련](Book/CS관련/)
+
+- [혼자공부하는 컴퓨터 구조 + 운영체제](<Book/CS관련>)
