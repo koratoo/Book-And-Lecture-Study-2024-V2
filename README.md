@@ -32,4 +32,4 @@
 - [비전공자도 이해할 수 있는 AWS 입문](<Lecture/AWS/비전공자도 이해할 수 있는 AWS 입문>)
 
 ### [Redis](Lecture/Redis/)
-- [실전! Redis활용 강의](Lecture/Redis/실전! Redis활용 강의)
+- [실전! Redis활용 강의](<Lecture/Redis/실전! Redis활용 강의>)
